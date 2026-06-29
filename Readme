@@ -1,1 +1,22 @@
+Hi 
+This is my first simple Python project where I learned how to take input from users and show it back on the screen.
 
+## 🧾 What this project does
+
+This program asks the user to enter:
+
+- Name  
+- Age  
+- Height (in meters)  
+- Favourite number  
+
+Then it:
+- Shows data types
+- Shows memory address using `id()`
+- Calculates approximate birth year
+- Prints a goodbye message 
+
+## ▶️ How to run
+
+```bash
+python main.py
