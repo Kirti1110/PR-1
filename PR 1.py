@@ -1,9 +1,9 @@
 print("Welcome to the Interactive Personal Data Collector!\n")
 
-name = input("Please enter your name: ")
-age = int(input("Please enter your age: "))
-height = float(input("Please enter your height in meters: "))
-favourite_number = int(input("Please enter your favourite number: "))
+name = input("enter your name: ")
+age = int(input("enter your age: "))
+height = float(input("enter your height in meters: "))
+favourite_number = int(input("enter your favourite number: "))
 
 print("\nThank you! Here is the information we collected:\n")
   
